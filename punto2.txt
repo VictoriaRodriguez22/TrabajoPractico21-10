@@ -1,0 +1,26 @@
+Que es un objeto?
+   Es los que vamos a trabajar, por ejemplo un televisor, y tiene estados (nuestas variables) y funcionalidades (nuestros métodos).
+estos objetos los tratamos solo así, no nos interesa el adentro o como funcionan.
+
+Que es una clase?A que se llama metodo constructor?
+   Una clase es una agrupación o ubicación de los objetos. Por ejemplo clase automotor, y ponemos todos los vehiculos. 
+se llama metodo constructor, al que asigna valores a nuestras variables (estados del objeto) 
+
+Que son los modificadores de acceso?
+    No recuerdo bien el concepto, pero creo que eran lo privado y prublico, a lo que el usuario puede acceder y a lo que no.
+Por ejemplo los estados, son variables privadas, ya que si las modifica nos cambiaria todo y daria muchos errores. 
+En cambio los metodos pueden variar por eso son publicos
+
+Que diferencia hay entre uno privado y uno protegido?
+  Al privado no se puede acceder, por lo tanto el usuario no lo puede modificar, y generar problemas en el programa. Y los protegidos, los puedo usar en otras clases derivadas, por ejemplo si qjuiero que esa variable tenga otro valor actual o cambiarlo. 
+
+Cuando se usa el this?
+   Se usa this para "llamar" a los métodos que necesito. Y para diferenciar unas variables de las otras, digamos las que son privadas de las que asigno en una función.
+
+
+Cuando se usa el super?
+     Con el super obtengo las mismas funciones o metodos de una clase madre, creo una que extends de la otra y puedo con el super evitar codigo.
+
+A que se llama sub-clase, o clase hija?
+     Una clase hija, es cuando tiene las misma caracteristicas de otra principal de las que hereda todo pero puede agregar algo propio de su calse.
+     por ejemplo el televisor smart que es hija de un televisor normal, tiene todo los mismo y se le suma el poder conectarse a internet. 
